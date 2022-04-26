@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MatcherDB/MatcherDB.iml" filepath="$PROJECT_DIR$/../MatcherDB/MatcherDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MatcherEngine/MatcherEngine.iml" filepath="$PROJECT_DIR$/../MatcherEngine/MatcherEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MatcherProcessor/MatcherProcessor.iml" filepath="$PROJECT_DIR$/../MatcherProcessor/MatcherProcessor.iml" />
+    </modules>
+  </component>
+</project>
